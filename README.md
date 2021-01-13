@@ -1,1 +1,1 @@
-# fairy-and-the-star-project
+fairy-and-the-star-project
